@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Projeto iniciado em Abril de 2019 com a proposta inicial de utilizar [modelo matematico ja validado para virus da hepatite C](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00601/full) (HCV) para compreender melhor dinamicas durante o tratamento 
+Projeto iniciado em 2018 com a proposta de utilizar [modelo matematico ja validado para virus da hepatite C](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00601/full) (HCV) para compreender melhor dinamicas durante o tratamento 
 e para estudar tambem outros virus da mesma familia como por exemplo o Zika (ZKV). Foram gerados trabalhos de conclusao de curso e uma publicaçao em anais de evento.
 Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19.
 
