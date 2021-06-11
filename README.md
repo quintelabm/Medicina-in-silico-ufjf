@@ -1,17 +1,18 @@
-## Pagina do projeto de medicina in silico 
+# Pagina do projeto de medicina in silico 
 
-# Orientadora
+### Orientadora
 
 Prof. Barbara Quintela 
 Universidade Federal de Juiz de Fora
 
-# Bolsistas e voluntarios
+### Bolsistas e voluntarios
 
 Jessica Garbero da Silva
 Matheus Avila Moreira de Paulaù
 
-# Repositorios
+### Repositorios
 
-- https://github.com/Matheus-Avila/CovidFitting
-- https://github.com/quintelabm/PrmFitting
-- https://github.com/quintelabm/HCV_Model
+- (HCV_Model)[https://github.com/quintelabm/HCV_Model] 
+- (PrmFitting)[https://github.com/quintelabm/PrmFitting]
+- (CovidFitting)[https://github.com/Matheus-Avila/CovidFitting]
+
