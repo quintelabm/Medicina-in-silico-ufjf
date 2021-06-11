@@ -6,8 +6,7 @@ Projeto iniciado em Abril de 2019 com a proposta inicial de utilizar modelo mate
 
 ### Orientadora
 
-Prof. Barbara Quintela 
-Universidade Federal de Juiz de Fora
+[Prof. Barbara Quintela](https://barbaraquintela.net/sobre/), [Departamento de Ciencia da Computaçao](https://www.ufjf.br/deptocomputacao/), [Universidade Federal de Juiz de Fora](https://www.ufjf.br/)
 
 ### Bolsistas e voluntarios
 
