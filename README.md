@@ -12,7 +12,7 @@ Matheus Avila Moreira de Paulaù
 
 ### Repositorios
 
-- (HCV_Model)[https://github.com/quintelabm/HCV_Model] 
-- (PrmFitting)[https://github.com/quintelabm/PrmFitting]
-- (CovidFitting)[https://github.com/Matheus-Avila/CovidFitting]
+- [HCV_Model](https://github.com/quintelabm/HCV_Model)
+- [PrmFitting](https://github.com/quintelabm/PrmFitting)
+- [CovidFitting](https://github.com/Matheus-Avila/CovidFitting)
 
