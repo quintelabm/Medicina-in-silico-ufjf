@@ -25,10 +25,10 @@ Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19. Atualmente en
 
 ## Apresentações no SEMIC - Seminário de Iniciação cientifica / UFJF
 
-[![SEMIC/UFJF 2020](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/0burvvVHfbg "SEMIC/UFJF 2020")
+[![SEMIC/UFJF 2020](https://github.com/quintelabm/Medicina-in-silico-ufjf/blob/main/semic2020.png)](https://youtu.be/0burvvVHfbg "SEMIC/UFJF 2020")
 
 
-[![SEMIC/UFJF 2021](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/fAb0HpnPDbg "SEMIC/UFJF 2021")
+[![SEMIC/UFJF 2021](https://github.com/quintelabm/Medicina-in-silico-ufjf/blob/main/semic2021.png)](https://youtu.be/fAb0HpnPDbg "SEMIC/UFJF 2021")
 
 
 ### Anais de Eventos
