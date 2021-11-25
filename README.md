@@ -23,6 +23,14 @@ Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19. Atualmente en
 
 ## Publicações
 
+## Apresentações no SEMIC - Seminário de Iniciação cientifica / UFJF
+
+[![SEMIC/UFJF 2020](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/0burvvVHfbg "SEMIC/UFJF 2020")
+
+
+[![SEMIC/UFJF 2021](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/fAb0HpnPDbg "SEMIC/UFJF 2021")
+
+
 ### Anais de Eventos
 
 - [SILVA, J. G.; SANTOS, Rodrigo Weber dos; Lobosco, Marcelo; QUINTELA, B. M. Dinâmicas de infecção e tratamento do vírus da hepatite C utilizando modelo matemático com estrutura etária. In: XII Encontro Acadêmico de Modelagem Computacional - EAMC 2019, 2019, Petrópolis. Anais do XII Encontro Acadêmico de Modelagem Computacional - EAMC 2019, 2019](http://www.eamc.lncc.br/PastEditions/EAMC2019/XIIEAMC_Garbero2019.pdf)
