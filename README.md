@@ -10,10 +10,14 @@ Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19.
 
 [Prof. Barbara Quintela](https://barbaraquintela.net/sobre/), [Departamento de Ciencia da Computaçao](https://www.ufjf.br/deptocomputacao/), [Universidade Federal de Juiz de Fora](https://www.ufjf.br/)
 
-### Bolsistas e voluntarios
+### Bolsistas e voluntarios atuais
+
+- Matheus Avila Moreira de Paula
+- Joao Stephan Silva Mauricio
+
+### Bolsistas e voluntarios que já passaram pelo projeto
 
 - Jessica Garbero da Silva 
-- Matheus Avila Moreira de Paula
 
 ## Repositorios
 
