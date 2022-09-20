@@ -14,6 +14,7 @@ Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19. Atualmente en
 
 - Jessica Garbero da Silva 
 - Matheus Avila Moreira de Paula
+- João Stephan Silva Mauricio
 
 ## Repositorios
 
