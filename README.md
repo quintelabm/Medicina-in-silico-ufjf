@@ -8,7 +8,7 @@ Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19. Atualmente en
 
 ### Orientadora
 
-[Prof. Barbara Quintela](https://barbaraquintela.net/sobre/), [Departamento de Ciencia da Computaçao](https://www.ufjf.br/deptocomputacao/), [Universidade Federal de Juiz de Fora](https://www.ufjf.br/)
+[Prof. Barbara Quintela](https://barbaraquintela.wordpress.com/sobre/), [Departamento de Ciencia da Computaçao](https://www.ufjf.br/deptocomputacao/), [Universidade Federal de Juiz de Fora](https://www.ufjf.br/)
 
 ### Bolsistas e voluntários que passaram pelo projeto
 
