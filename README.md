@@ -19,6 +19,7 @@ Em 2020 e 2021 estudamos tambem modelos matematicos para covid-19. Atualmente en
 ## Repositorios
 
 - [HCV_Model](https://github.com/quintelabm/HCV_Model)
+- [HCV Model with ALT](https://github.com/stephanJoao/hcv-model-2021)
 - [PrmFitting](https://github.com/quintelabm/PrmFitting)
 - [CovidFitting](https://github.com/Matheus-Avila/CovidFitting)
 
