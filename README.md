@@ -1,4 +1,4 @@
-# Pagina do projeto de iniciaçao cientifica: _Medicina in silico_: desenvolvimento de modelos matemáticos para representação de infecção e tratamento de doenças (2018 a 2021)
+# Pagina do projeto de iniciaçao cientifica: _Medicina in silico_: desenvolvimento de modelos matemáticos para representação de infecção e tratamento de doenças (2018 a 2022)
 
 ## Sobre
 
